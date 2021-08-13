@@ -15,6 +15,6 @@ void mostrar_bocales(char vector[MAX], int tope){
 
 int main(){
     char nombre[MAX];
-    strcpy(nombre, "Tu mamite hijo de putaaa");
+    strcpy(nombre, "holaaaa, vos decis?");
     mostrar_bocales(nombre, strlen(nombre));
 }
